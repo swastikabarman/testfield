@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(0, 0, 0, 0.566) ;
+}
+h1{
+    color: maroon;
+    text-align: center;
+    font-size: xx-large;
+}
+#line1{
+    color:white;
+    text-align: center;
+}
+#line2{
+    color: rgb(110, 7, 24);
+    font-style:oblique;
+    font-weight: bolder;
+    text-align: left;
+}
+ul{
+    color: antiquewhite;
+}
+#line4{
+    color: rgb(112, 4, 4);
+    font-weight:bolder;
+}
+#line3{
+    color: rgb(124, 9, 9);
+    text-decoration: solid;
+}
